@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> , I'm QUYNH NGAN</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> , I'm MY TRAN</h1>
 
 
 - 🏫 I'm a student at **FPT University - Ho Chi Minh Campus**
@@ -13,13 +13,13 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100033525617931" alt="Facebook">
+  <a href="https://www.facebook.com/mincutene" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />    
   </a> 
-  <a href="https://github.com/qyhngan" alt="Github">
+  <a href="https://github.com/nmytran" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>   
   </a> 
-  <a href="mailto:nguyenquynhngan4143@gmail.com" alt="Email">
+  <a href="mailto:n.mytran12@gmail.com" alt="Email">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>   
   </a>
 </p>
